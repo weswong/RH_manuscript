@@ -1,5 +1,5 @@
 # RH_manuscript
-Code and data that support the manuscriot "RH: A genetic metric for measuring intra-host Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection"
+Code and data that support the manuscript "RH: A genetic metric for measuring intra-host Plasmodium falciparum relatedness and distinguishing cotransmission from superinfection"
 
 barcode_pos.txt -- A text file showing the position and assay number of each barcode site. 
 
