@@ -11,6 +11,6 @@ Cotx_simulation_threshold.json -- pre-generated results for TPR and FPR at diffe
 
 cotx_simulation_files -- Relatedness maps for 24 SNP molecular barcode following cotransmisison. Generated using Cotransmission model code (https://github.com/weswong/Cotransmission)
 The naming convention is:
-cotx_barcode_{coi}_{alpha}_{mu}.txt
+cotx_barcode_{coi}\_{alpha}\_{mu}.txt
 
 Not all files will have these fields. Files without either the alpha or mu fields used the default parameters.
